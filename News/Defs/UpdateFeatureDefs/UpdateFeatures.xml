@@ -38,4 +38,12 @@ Use the Emergency toggle to set the 4 policy presets for each tab all at once!
  </content>
 	</HugsLib.UpdateFeatureDef>
 	
+	<HugsLib.UpdateFeatureDef ParentName="UpdateFeatureBase">
+		<defName>BetterPawnControl_2_2_0</defName>
+		<assemblyVersion>2.2.0</assemblyVersion>
+		<content>* Add compatibility with the autocleaner mod</content>
+* Improved some texts|
+ </content>
+	</HugsLib.UpdateFeatureDef>
+
 </Defs>
